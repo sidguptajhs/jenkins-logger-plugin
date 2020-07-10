@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+   Adds a more advanced echo interface that allows for cleaner logger style output
+</div>
